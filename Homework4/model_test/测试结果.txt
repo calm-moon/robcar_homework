@@ -1,0 +1,43 @@
+D:\Tools\Anaconda\envs\robcarpytorch\python.exe D:\py_pro1\pythonProject\residual_test.py 
+[1,   300] loss: 0.040
+[1,   600] loss: 0.013
+[1,   900] loss: 0.010
+Accuracy on test set:98 %
+[2,   300] loss: 0.007
+[2,   600] loss: 0.007
+[2,   900] loss: 0.006
+Accuracy on test set:98 %
+[3,   300] loss: 0.005
+[3,   600] loss: 0.005
+[3,   900] loss: 0.004
+Accuracy on test set:99 %
+[4,   300] loss: 0.004
+[4,   600] loss: 0.003
+[4,   900] loss: 0.004
+Accuracy on test set:99 %
+[5,   300] loss: 0.003
+[5,   600] loss: 0.003
+[5,   900] loss: 0.003
+Accuracy on test set:99 %
+[6,   300] loss: 0.002
+[6,   600] loss: 0.002
+[6,   900] loss: 0.002
+Accuracy on test set:99 %
+[7,   300] loss: 0.002
+[7,   600] loss: 0.002
+[7,   900] loss: 0.002
+Accuracy on test set:99 %
+[8,   300] loss: 0.001
+[8,   600] loss: 0.001
+[8,   900] loss: 0.002
+Accuracy on test set:99 %
+[9,   300] loss: 0.001
+[9,   600] loss: 0.001
+[9,   900] loss: 0.001
+Accuracy on test set:99 %
+[10,   300] loss: 0.001
+[10,   600] loss: 0.001
+[10,   900] loss: 0.001
+Accuracy on test set:99 %
+
+进程已结束，退出代码为 0
