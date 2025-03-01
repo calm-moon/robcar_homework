@@ -1,0 +1,6 @@
+names: ['Healty Apple', 'watermelon', 'Pisang']
+
+nc: 3
+
+train: def_sample/fruit/train/images
+val: def_sample/fruit/valid/images
